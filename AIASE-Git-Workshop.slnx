@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ConsoleApplication1AIASE-Git-Workshop/ConsoleApplication1AIASE-Git-Workshop.vcxproj" />
+</Solution>
